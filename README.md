@@ -33,14 +33,7 @@ ACLs to restrict inter-VLAN access and enhance security
 
 🔐 Security Logic (ACLs)
 
-VLAN 10 (Admin) is protected: No other VLAN can reach it
-
-VLAN 20 (Guest) is isolated: Cannot access any other VLAN
-
-VLAN 10 retains access to all VLANs for management purposes
-
-SSH access is restricted and secured with credentials
-
+VLAN 20 (Guest Hall) is isolated: Cannot access any other VLAN
 
 
 ✅ Outcomes
