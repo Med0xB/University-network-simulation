@@ -1,5 +1,5 @@
 # University-network-simulation
-This is a Campus LAN network design connecting three buildings using VLAN segmentation, DHCP, ACLs, and SSH access.
+This is a Campus LAN network design connecting three buildings using VLAN segmentation, Inter-VLAN Routing, DHCP, ACLs, and SSH access.
 
 🏢 Campus Structure
 
